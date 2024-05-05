@@ -1,32 +1,30 @@
 <p align="left">Hello World!!</p>
 
-###
+
 
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas, estou em busca contínua de aprendizado e oportunidades para contribuir em projetos diversos. No início da minha trajetória, estou ansioso por desafios que impulsionem meu crescimento. Embora ainda não tenha tido a chance de colaborar em projetos externos à faculdade, adquiri valiosa experiência trabalhando em equipe durante meu estágio durante o curso técnico integrado. Meu interesse especial reside em inteligência artificial, análise de dados e segurança da informação, e estou entusiasmado para explorar mais essas áreas e agregar valor a projetos significativos.</p>
 
-###
 
-###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoASouzaN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoASouzaN&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoASouzaN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150px" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoASouzaN&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150px" alt="stats graph"  />
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/JoaoASouzaN/JoaoASouzaN/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=JoaoASouzaN&theme=algolia&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-###
 
-###
+
+
 <h2 align="left">🔣 Languages:</h2>
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
@@ -48,9 +46,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-###
 
-###
+
+
 <h2 align="left">👨‍💻 Softwares:</h2>
 
 <div align="left">
@@ -68,20 +66,43 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-###
 
-###
-<h2 align="left">🕸️ Social NetWorks:</h2>
+
+
+<h2 align="left">📱 Contact me:</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://discord.com/channels/king_m22" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="joaoif.eletro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/JoaoASouzaN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/jao.022/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/joaoasouzan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="+55 (32) 9 9830-5593" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://youtu.be/gU8u1Qm5gTU" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
-###
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoASouzaN.JoaoASouzaN&left_color=blue&right_color=black&left_text=Views:"  />
 
-###
+
+
+
+
+
+
+
